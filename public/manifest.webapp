@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "name": "My KaiOS App",
+  "description": "Reach next billion ...",
+  "type": "web",
+  "launch_path": "/index.html",
+  "icons": {
+    "56": "/icons/kaios_56.png",
+    "112": "/icons/kaios_112.png"
+  },
+  "theme_color": "#006AB3",
+  "developer": {
+    "name": "Ilia Breitburg",
+    "url": "https://breitburg.com/"
+  }
+}
